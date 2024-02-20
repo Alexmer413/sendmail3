@@ -1,5 +1,5 @@
 const mailPath = '../mail.php'
-
+alert('Проверка')
 document.querySelectorAll('.uniForm').forEach( (e) => {
 
 	e.addEventListener('submit', function(e) {
